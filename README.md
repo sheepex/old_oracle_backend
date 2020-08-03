@@ -1,29 +1,5 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Backend do django para banco de dados Oracle antigo (10g e 11g), o código foi baseado na versão 2.2 e portado com código da versão 1.11
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
